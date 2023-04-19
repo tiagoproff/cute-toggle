@@ -4,6 +4,9 @@ A cute toggle inspired by the [@daiman_edits](https://www.tiktok.com/@daiman_edi
 
 Please submit a pull request if you have any additions or changes.
 
+And here the running toggle:
+[codesandbox.io](https://codesandbox.io/p/github/tiagoproff/cute-toggle).
+
 ## Available Scripts
 
 In the project directory, you can run:
